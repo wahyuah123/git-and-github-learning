@@ -1,1 +1,2 @@
 laern from basicly git and github
+for sure i have a basic learn terminal like cli and cli for linux
