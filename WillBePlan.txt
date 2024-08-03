@@ -1,0 +1,3 @@
+be mastered of leetcode
+create a mini project
+*create a calculator 
